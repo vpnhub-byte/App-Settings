@@ -1,0 +1,8 @@
+[
+  {
+    "name": "test",
+    "config": "vless://17d7edbb-756e-4457-9a73-3ae564340021@zoom.slcatehiteam.shop:443?path=%2F&security=tls&encryption=none&host=free.slcatehiteam.shop&type=ws&sni=free.slcatehiteam.shop#Free+Config-SL+CAT+EHI+TEAM",
+    "requiresDeviceId": false,
+    "allowedDeviceId": null
+  }
+]
